@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2015.2.27)  14 MAY 2015 20:22
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2015.2.27)  24 AUG 2015 21:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -480,7 +480,7 @@ LaTeX Info: Redefining \nameref on input line 56.
 
 \makecvtitlepicturebox=\box31
 
-<pictures/picture.jpg, id=32, 367.1316pt x 496.4949pt>
+<pictures/picture.jpg, id=36, 367.1316pt x 496.4949pt>
 File: pictures/picture.jpg Graphic file (type jpg)
 
 <use pictures/picture.jpg>
@@ -536,36 +536,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--92
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 114.
-
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 93.
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 114.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 93.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pictures/picture.jpg>] [
-2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
+2] [3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
  (./cv_7.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 167.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 167.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
 Package rerunfilecheck Info: File `cv_7.out' has not changed.
-(rerunfilecheck)             Checksum: EAFD69AD606C2CF9D4206783A66987AA;705.
+(rerunfilecheck)             Checksum: 923EF7E479B8B533E97046E1F673F2FA;831.
  ) 
 Here is how much of TeX's memory you used:
- 9984 strings out of 495059
- 145464 string characters out of 3182030
- 363423 words of memory out of 3000000
- 12961 multiletter control sequences out of 15000+200000
+ 9987 strings out of 495059
+ 145494 string characters out of 3182030
+ 372423 words of memory out of 3000000
+ 12962 multiletter control sequences out of 15000+200000
  59454 words of font info for 67 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 46i,13n,67p,770b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
-c/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/
+ 42i,13n,67p,770b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/
 share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/publ
 ic/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/
@@ -573,10 +572,10 @@ lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso12.pfb></usr/share/
 texmf/fonts/type1/public/lm/lmsso17.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym
 .pfb>
-Output written on cv_7.pdf (2 pages, 478349 bytes).
+Output written on cv_7.pdf (3 pages, 481217 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 22078 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 102 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 22086 words of extra memory for PDF output out of 24883 (max. 10000000)
 
